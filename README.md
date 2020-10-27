@@ -3,7 +3,7 @@
 This will run a shell script that will "Rick Roll" the first user that runs the Repl and then it will erase all evidence.
 
 ## Instructions 
-1. Download it using the Repl.it terminal/bash
+1. Download it using the Repl.it terminal
 ```
 $ git clone https://github.com/DiegoPerez1441/Repl.it_DissapearingRickRoll.git
 ```
