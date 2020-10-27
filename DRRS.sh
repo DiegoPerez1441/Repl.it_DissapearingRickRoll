@@ -1,5 +1,5 @@
 cd $rwd
-echo pwd
+echo $rwd
 #wget https://i.imgflip.com/1uv9gt.jpg && mv 1uv9gt.jpg PressMe.jpg
 
 #sleep 5
