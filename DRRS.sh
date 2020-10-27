@@ -10,16 +10,18 @@ wget https://i.imgflip.com/1uv9gt.jpg && mv 1uv9gt.jpg PressMe.jpg
 sleep 3
 clear
 
+rm .replit
+
 echo "\033[0;31m You've Been Rick Rolled! \033[0;0m"
 sleep 10
 
 clear
 
-mv ~/ProjectBackup/* $rwd/
-
 rm -rf ~/DRR
 rm -rf ~/ProjectBackup
-rm .replit
+rm -f PressMe.jpg
+
+mv ~/ProjectBackup/* $rwd/
 
 clear
 
