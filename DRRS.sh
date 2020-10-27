@@ -25,5 +25,6 @@ rm -rf ~/ProjectBackup
 
 clear
 
-javac -classpath .:/run_dir/junit-4.12.jar:target/dependency/* -d . Main.java
-java -classpath .:/run_dir/junit-4.12.jar:target/dependency/* Main
+# Run the Java Project that the user had. (Java Only Repls)
+#javac -classpath .:/run_dir/junit-4.12.jar:target/dependency/* -d . Main.java
+#java -classpath .:/run_dir/junit-4.12.jar:target/dependency/* Main
