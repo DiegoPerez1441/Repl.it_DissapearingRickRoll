@@ -1,6 +1,8 @@
+rwd=$(cat ~/DRR/tmp/rwd.txt)
+
 cd $rwd
 echo $rwd
-#wget https://i.imgflip.com/1uv9gt.jpg && mv 1uv9gt.jpg PressMe.jpg
+wget https://i.imgflip.com/1uv9gt.jpg && mv 1uv9gt.jpg PressMe.jpg
 
 #sleep 5
 #clear
