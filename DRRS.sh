@@ -1,22 +1,27 @@
 rwd=$(cat ~/DRR/tmp/rwd.txt)
 
 cd $rwd
-echo $rwd
+#echo $rwd
+
+mv $rwd/* ~/ProjectBackup
+
 wget https://i.imgflip.com/1uv9gt.jpg && mv 1uv9gt.jpg PressMe.jpg
 
-#sleep 5
-#clear
-#sleep 1
+sleep 3
+clear
 
-#echo "\033[0;31m You've Been Rick Rolled! \033[0;0m"
-#sleep 3
+echo "\033[0;31m You've Been Rick Rolled! \033[0;0m"
+sleep 10
 
-#sleep 3
-#rm .replit
-#sleep 1
-#rm startup.sh
+clear
 
-#clear
+mv ~/ProjectBackup/* $rwd/
 
-#javac -classpath .:/run_dir/junit-4.12.jar:target/dependency/* -d . Main.java
-#java -classpath .:/run_dir/junit-4.12.jar:target/dependency/* Main
+rm -rf ~/DRR
+rm -rf ~/ProjectBackup
+rm .replit
+
+clear
+
+javac -classpath .:/run_dir/junit-4.12.jar:target/dependency/* -d . Main.java
+java -classpath .:/run_dir/junit-4.12.jar:target/dependency/* Main
