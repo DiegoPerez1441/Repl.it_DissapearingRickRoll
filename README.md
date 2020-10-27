@@ -21,6 +21,16 @@ $ ./startup.sh
 ```
 5. Now the next person that runs the Repl by using the green run button will activate the Rick Roll Script
 
+## Preparation Instructions One-Liner
+1. cd into the directory
+```
+$ cd Repl.it_DissapearingRickRoll/
+```
+2. Run this One-Liner
+```
+$ chmod +x startup.sh && ./startup.sh 
+```
+
 ## Disclaimer
 This program only runs once hence the "erase all evidence" part. 
 I'm not responsible for any damages caused by this program and it is meant for educational purposed only.
