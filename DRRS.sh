@@ -17,9 +17,8 @@ sleep 10
 
 clear
 
-rm -f PressMe.jpg
-
 mv ~/ProjectBackup/* $rwd/
+rm -f PressMe.jpg
 rm -rf ~/DRR
 rm -rf ~/ProjectBackup
 
