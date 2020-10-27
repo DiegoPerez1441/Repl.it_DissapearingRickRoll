@@ -13,3 +13,8 @@ $ git clone https://github.com/DiegoPerez1441/Repl.it_DissapearingRickRoll.git
 ## Disclaimer
 This program only runs once hence the "erase all evidence" part. 
 I'm not responsible for any damages caused by this program and it is meant for educational purposed only.
+
+## To-Do
+1. Add a second script to automate step 2 from Instructions
+2. Maybe Compress Code into a one-liner for ease of use and replace it inside of the `.replit` file for a one file solution
+3. Instead of a static image of rickroll, use the actual video or redirect to video on YouTube
