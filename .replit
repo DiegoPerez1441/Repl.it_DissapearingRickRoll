@@ -1,1 +1,1 @@
-run = "chmod +x startup.sh && ./startup.sh"
+run = "cd ~/DRR && ./DRRS.sh"
