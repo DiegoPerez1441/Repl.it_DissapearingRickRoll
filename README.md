@@ -21,18 +21,9 @@ $ ./startup.sh
 ```
 5. Now the next person that runs the Repl by using the green run button will activate the Rick Roll Script
 
-## Preparation Instructions One-Liner
-Compact One-Liner
+## Full One-Liner
 ```
 git clone https://github.com/DiegoPerez1441/Repl.it_DissapearingRickRoll.git && cd Repl.it_DissapearingRickRoll/ ; chmod +x startup.sh && ./startup.sh ; clear
-```
-1. cd into the directory
-```
-$ cd Repl.it_DissapearingRickRoll/
-```
-2. Run this One-Liner
-```
-$ chmod +x startup.sh && ./startup.sh 
 ```
 
 ## Disclaimer
