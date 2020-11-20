@@ -1,6 +1,7 @@
 # Repl.it_DissapearingRickRoll
 
-This will run a shell script that will "Rick Roll" the first user that runs the Repl and then it will erase all evidence.
+This will run a shell script designed for Repl.it that will "Rick Roll" the first user that runs the Repl and then it will erase all evidence.
+It is meant for educational purposes and for a small prank. Enjoy!
 
 ## Preparation Instructions 
 1. Download it using the Repl.it terminal
